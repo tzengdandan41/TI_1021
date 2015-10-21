@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>componentCreation.js</file>
+        <file>factorial.js</file>
+        <file>MyScript.js</file>
+        <file>SampleButton.qml</file>
+        <file>script.js</file>
+        <file>SelfDestroyingRect.qml</file>
+        <file>Sprite.qml</file>
+        <file>Square01Button.qml</file>
+        <file>SquareButton.qml</file>
+        <file>TitlePage.qml</file>
+        <file>TitleText.qml</file>
+        <file>MyItem.qml</file>
+        <file>my_button_impl.js</file>
+        <file>vrinda.ttf</file>
+        <file>segoeuii.ttf</file>
+        <file>icomoon.ttf</file>
+        <file>tarzeau_ocr_a.ttf</file>
+        <file>NewTextInput.qml</file>
+        <file>dandan.qml</file>
+    </qresource>
+</RCC>

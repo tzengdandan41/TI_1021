@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main_otherTest.qml</file>
+        <file>Custom_Component.qml</file>
+        <file>Style_Singleton.qml</file>
+    </qresource>
+</RCC>
